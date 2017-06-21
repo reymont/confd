@@ -1,1 +1,11 @@
 bin/
+*.settings
+*.idea
+*.classpath
+*.iml
+*.project
+*.DS_Store
+*.externalToolBuilders
+*.test
+*.vscode
+*debug*
